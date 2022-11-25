@@ -1,6 +1,6 @@
 # Hi, I'm Diego!
 
-I'm studying Python language and beginning computer science college at the start of 2023!
+I'm studying some languages and beginning computer science college at the start of 2023!
 
 
 ##
