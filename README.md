@@ -1,6 +1,6 @@
 # Hi, I'm Diego!
 
-I'm studying some languages and beginning computer science college at the start of 2023!
+I'm a brazilian computer science student currently learning the basics of Web Design!
 
 
 ##
