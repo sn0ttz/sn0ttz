@@ -1,19 +1,29 @@
+<div align="center">
+
 # Hi, I'm Diego!
 
-I'm a brazilian computer science student currently learning the basics of Web Design!
+I'm a brazilian computer science major, currently on the second semester of my degree.
 
 
 ##
 <br/> 
 
-<div align="center">
-  <a href="https://github.com/sn0ttz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sn0ttz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn0ttz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sn0ttz&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sn0ttz&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sn0ttz&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sn0ttz&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sn0ttz&theme=dracula&utcOffset=8)
 
+
+
+##
+  
+# Skills
+  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,vscode)](https://skillicons.dev)
+#
+
+# Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=java,cs,visualstudio)](https://skillicons.dev)
+</div>
