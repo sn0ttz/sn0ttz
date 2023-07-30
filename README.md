@@ -4,9 +4,7 @@
 
 I'm a brazilian computer science major, currently on the second semester of my degree.
 
-
-##
-<br/> 
+<br> 
 
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sn0ttz&theme=dracula)
@@ -17,13 +15,15 @@ I'm a brazilian computer science major, currently on the second semester of my d
 
 
 
-##
-  
+<br>
+
+</div>
+
 # Skills
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,vscode)](https://skillicons.dev)
-#
+
 
 # Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=java,cs,visualstudio)](https://skillicons.dev)
-</div>
+
