@@ -2,7 +2,7 @@
 
 # Hi, I'm Diego!
 
-I'm a brazilian computer science major, currently on the second semester of my degree.
+I'm a brazilian computer science major, currently on the third semester of my degree.
 
 <br> 
 
