@@ -21,9 +21,9 @@ I'm a brazilian computer science major, currently on the third semester of my de
 
 # Skills
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,vscode,java,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,vscode,java,linux)](https://skillicons.dev)
 
 
 # Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=cs,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
